@@ -4,8 +4,8 @@
 
 
 - 🔭 I’m currently working on ... developing my Android Studio skills
-- 🌱 I’m currently learning ... Java, Kotlin
-- 👯 I’m looking to collaborate on ... Java, Kotlin projects
-- 🤔 I’m looking for help with ... Angular
+- 🌱 I’m currently learning ... Java, Php
+- 👯 I’m looking to collaborate on ... Java Spring, Symfony projects
+- 🤔 I’m looking for help with ... Django
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... cindanojonathan@icloud.com
