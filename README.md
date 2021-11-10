@@ -1,4 +1,4 @@
-# Hello World ! https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif
+# Hello World ! 
 
 ### Here is What I'm Working On !
 
