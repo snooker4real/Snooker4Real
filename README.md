@@ -1,6 +1,6 @@
-# Hello World !
+# Hello World ! https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif
 
-### Here is What I'm Working On !👋
+### Here is What I'm Working On !
 
 
 - 🔭 I’m currently working on ... developing my Android Studio skills
