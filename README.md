@@ -10,12 +10,4 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... cindanojonathan@icloud.com
 
-```xml
-<ImageView
-        android:layout_width="150dp"
-        android:layout_height="200dp"
-        android:src="@drawable/adele"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
-```
+![Capture d’écran de 2021-11-12 14-34-38](https://user-images.githubusercontent.com/65620947/141475524-2a760070-522c-47e4-b740-1f4d3051bf00.png)
