@@ -9,5 +9,11 @@
 - 🤔 I’m looking for help with ... Django
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... cindanojonathan@icloud.com
+<ImageView
+        android:layout_width="150dp"
+        android:layout_height="200dp"
+        android:src="@drawable/adele"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
-![Capture d’écran de 2021-11-12 14-15-49](https://user-images.githubusercontent.com/65620947/141473119-641d7627-acac-4d7a-9a82-adcd11cdd817.png)
