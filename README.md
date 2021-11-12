@@ -10,4 +10,21 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... cindanojonathan@icloud.com
 
-Interface to global information about an application environment. This is an abstract class whose implementation is provided by the Android system. It allows access to application-specific resources and classes, as well as up-calls for application-level operations such as launching activities, broadcasting and receiving intents, etc.
+```xml
+<resources>
+<string name="app_name">FilmQuiz</string>
+<string name="question">Question</string>
+<string name="button_true">TRUE</string>
+<string name="button_false">FALSE</string>
+<string name="score">Score</string>
+<string name="question_ai">Artificial Intelligence : AI is a film directed
+by Steven Spielberg</string>
+<string name="question_taxi_driver">Taxi Driver is a film directed by
+Martin Scorsese</string>
+<string name="question_2001">2001 : A space Odyssey is a film
+directed by Alfred Hitchcock</string>
+<string name="question_reservoir_dogs">Reservoir dogs is a film
+directed by Quentin Tarantino</string>
+<string name="question_citizen_kane">Citizen Kane is a film directed by
+Luc Besson</string> </resources>
+
