@@ -10,5 +10,4 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... cindanojonathan@icloud.com
 
-
-![IMG_3861](https://user-images.githubusercontent.com/65620947/141472273-dd0e183e-76d9-41b5-8ebb-5688c74166a8.jpg)
+![Capture d’écran de 2021-11-12 14-15-49](https://user-images.githubusercontent.com/65620947/141473119-641d7627-acac-4d7a-9a82-adcd11cdd817.png)
