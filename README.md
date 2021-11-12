@@ -10,4 +10,4 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... cindanojonathan@icloud.com
 
-![Capture d’écran de 2021-11-12 14-34-38](https://user-images.githubusercontent.com/65620947/141475524-2a760070-522c-47e4-b740-1f4d3051bf00.png)
+Interface to global information about an application environment. This is an abstract class whose implementation is provided by the Android system. It allows access to application-specific resources and classes, as well as up-calls for application-level operations such as launching activities, broadcasting and receiving intents, etc.
