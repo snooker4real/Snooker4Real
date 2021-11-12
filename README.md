@@ -9,4 +9,6 @@
 - 🤔 I’m looking for help with ... Django
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... cindanojonathan@icloud.com
-![Capture d’écran de 2021-11-12 13-44-19](https://user-images.githubusercontent.com/65620947/141469284-42ce33d0-7a5c-477f-aace-cd7246de2748.png)
+
+
+![IMG_3861](https://user-images.githubusercontent.com/65620947/141472273-dd0e183e-76d9-41b5-8ebb-5688c74166a8.jpg)
