@@ -73,4 +73,4 @@
   </a> 
 </p>
 
-<img src="https://api.daily.dev/devcards/c5e6421456194178b7f89e78d453368e.png?r=ucg" alt="dev_card" width="150" height= "90"/>
+<img src="https://api.daily.dev/devcards/c5e6421456194178b7f89e78d453368e.png?r=ucg" alt="dev_card" width="300" height= "90"/>
