@@ -72,5 +72,3 @@
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
   </a> 
 </p>
-
-<a href="https://app.daily.dev/Snooker4Real"><img src="https://api.daily.dev/devcards/c5e6421456194178b7f89e78d453368e.png?r=ucg" width="400" alt="Cindano Jonathan's Dev Card"/></a>
