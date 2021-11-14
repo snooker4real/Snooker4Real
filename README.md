@@ -73,4 +73,4 @@
   </a> 
 </p>
 
-![Snooker4Real](https://user-images.githubusercontent.com/65620947/141680862-af2d8176-485a-440b-9834-da64866c3bca.png)
+<a href="https://app.daily.dev/Snooker4Real"><img src="https://api.daily.dev/devcards/c5e6421456194178b7f89e78d453368e.png?r=ucg" width="400" alt="Cindano Jonathan's Dev Card"/></a>
