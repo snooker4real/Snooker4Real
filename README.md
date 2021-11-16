@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/Snooker4Real"><img src="https://api.daily.dev/devcards/c5e6421456194178b7f89e78d453368e.png?r=h8g" width="400" alt="Cindano Jonathan's Dev Card"/></a>
+
 <h1 align="center">Hello World ! 👋, I'm Cindano Jonathan</h1>
 <h3 align="center">Java Spring backend developer, Tech enthusiast, I play soccer the rest of the time.</h3>
 
