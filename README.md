@@ -73,6 +73,7 @@
   <a href="https://symfony.com" target="_blank"> 
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
   </a> 
-</p>
-
-
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://pbs.twimg.com/profile_images/439154912719413248/pUBY5pVj_normal.png" alt="python" width="40" height="40"/> 
+  </a> 
+  
