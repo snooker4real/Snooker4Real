@@ -9,7 +9,7 @@
 
 - 👯 I share mostly on [Github](https://github.com/Snooker4Real)
 
-- 🤝 I’m looking for help with [Server Manager](https://github.com/Snooker4Real/server)]
+- 🤝 I’m looking for help with [Server Manager](https://github.com/Snooker4Real/server)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Snooker4Real)
 
