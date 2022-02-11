@@ -72,6 +72,6 @@
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://pbs.twimg.com/profile_images/439154912719413248/pUBY5pVj_normal.png" alt="python" width="40" height="40"/> 
+    <img src="https://img2.freepng.fr/20190623/etv/kisspng-python-high-level-programming-language-computer-pr-photos-ottawa-python-authors-group-ottawa-on-5d0f0abf37c231.0386740715612668792284.jpg" alt="python" width="40" height="40"/> 
   </a> 
   
