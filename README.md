@@ -1,5 +1,5 @@
 <h1 align="center">Hello World ! 👋, I'm Cindano Jonathan</h1>
-<h3 align="center">Java Spring backend developer, Tech enthusiast, I play soccer the rest of the time.</h3>
+<h3 align="center">Java Spring backend developer, Tech enthusiast, I play soccer ⚽️ on my free time.</h3>
 
 - 🔭 I’m currently working on ... [Server Manager](https://github.com/Snooker4Real/server)
 
