@@ -68,4 +68,6 @@
   <a href="https://symfony.com" target="_blank"> 
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
   </a> 
-  
+  <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="jenkins" width="40" height="40" />
+  </a>
