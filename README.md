@@ -71,3 +71,6 @@
   <a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="jenkins" width="40" height="40" />
   </a>
+  <a>
+    <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="40" height="40" />
+  </a>
