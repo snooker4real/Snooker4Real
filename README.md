@@ -74,3 +74,6 @@
   <a>
     <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="40" height="40" />
   </a>
+  <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" alt="python" width="40" height="40" />
+  </a>
