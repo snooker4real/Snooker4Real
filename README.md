@@ -1,9 +1,9 @@
 <h1 align="center">Hello World ! 👋, I'm Cindano Jonathan</h1>
 <h3 align="center">Java Spring backend developer, Tech enthusiast, I play soccer ⚽️ on my free time.</h3>
 
-- 🔭 I’m currently working on ... [Server Manager](https://github.com/Snooker4Real/server)
+- 🔭 I’m currently working on [Server Manager](https://github.com/Snooker4Real/server)
 
-- 🌱 I’m currently learning ... **Php, Angular, Android Studio & Flutter**
+- 🌱 I’m currently learning **Swift & Flutter**
 
 - 👯 I share mostly on [Github](https://github.com/Snooker4Real)
 
