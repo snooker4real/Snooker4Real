@@ -27,7 +27,10 @@
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a>
+    <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="java" width="40" height="40">
+  </a>
   <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
@@ -80,3 +83,4 @@
   <a>
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="40" height="40"/>
   </a>
+  
