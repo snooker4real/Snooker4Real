@@ -83,4 +83,7 @@
   <a>
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="40" height="40"/>
   </a>
+  <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40">
+  </a>
   
