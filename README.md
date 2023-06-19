@@ -86,4 +86,6 @@
   <a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40">
   </a>
-  
+  <a>
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="40" height="40">
+  </a>
