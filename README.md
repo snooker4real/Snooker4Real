@@ -1,89 +1,98 @@
-<a href="https://app.daily.dev/snooker4real"><img src="https://api.daily.dev/devcards/v2/UpJn4LLbGICbG3ioCYhJa.png?type=wide&r=96j" width="652" alt="Cindano Jonathan's Dev Card"/></a>
-<h1 align="center">Hello World ! 👋, I'm Cindano Jonathan</h1>
-<h3 align="center">Java Spring backend developer, Tech enthusiast, I play soccer ⚽️ on my free time.</h3>
+<a href="https://app.daily.dev/snooker4real" target="_blank">
+  <img src="https://api.daily.dev/devcards/v2/UpJn4LLbGICbG3ioCYhJa.png?type=wide&r=96j" width="652" alt="Cindano Jonathan's Dev Card" align="right"/>
+</a>
 
-- 🔭 I’m currently working on [Server Manager](https://github.com/Snooker4Real/server)
+<h1 align="center">👋 Hello World! I'm Cindano Jonathan</h1>
+<h3 align="center">Java Spring Backend Developer | Tech Enthusiast | Gym 🏋️‍♂️ & Tennis 🎾 & Soccer ⚽️</h3>
 
-- 🌱 I’m currently learning **Swift & Flutter**
+<br>
 
-- 👯 I share mostly on [Github](https://github.com/Snooker4Real)
+## 🚀 About Me
 
-- 🤝 I’m looking for help with [Server Manager](https://github.com/Snooker4Real/server)
+- 💼 **Backend Developer** specializing in Java Spring ecosystem
+- 🌱 Currently learning **Kubernetes & React Native**
+- 🏃 **Passionate about:** Gym, Tennis, and Soccer
+- ⚡ **Fun fact:** I balance coding with staying active through sports
+- 📫 **Reach me at:** cindanojonathan@icloud.com
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Snooker4Real)
+## 🔭 Current Focus
 
-- 💬 Ask me about **Java Spring**
+Working on **[Server Manager](https://github.com/Snooker4Real/server)** - contributions and collaborations welcome!
 
-- 📫 How to reach me **cindanojonathan@icloud.com**
+## 🛠️ Tech Stack
 
-- ⚡ Fun fact **I'm a cool guy ;)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/AstronoJONAS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="astronoJonas" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jonathan-c-7298b2133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-cindano" height="30" width="40" /></a>
+### **Backend & Languages**
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Java" width="40" height="40" title="Java"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" title="Spring"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="Python" width="40" height="40" title="Python"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### **Currently Learning**
+<p>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" title="Kubernetes"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" title="React Native"/>
+</p>
+
+### **Frameworks**
+<p>
+  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40" title="Symfony"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40" title="Laravel"/>
+  <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="40" height="40" title="Django"/>
+</p>
+
+### **Frontend & Mobile**
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React" width="45" height="40" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" width="40" height="40" title="Flutter"/>
+</p>
+
+### **Databases**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40" title="MariaDB"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" title="SQL Server"/>
+</p>
+
+### **DevOps & Tools**
+<p>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" title="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" title="Git"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="40" height="40" title="Jenkins"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" title="Postman"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" title="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
+</p>
+
+## 📫 Connect With Me
+
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  <a href="https://twitter.com/AstronoJONAS" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a>
-    <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="java" width="40" height="40">
+  <a href="https://www.linkedin.com/in/jonathan-c-7298b2133/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://mariadb.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  <a href="https://github.com/Snooker4Real" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="https://postman.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="react" width="45" height="40"/> 
-  </a> 
-  <a href="https://symfony.com" target="_blank"> 
-    <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
-  </a> 
-  <a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="jenkins" width="40" height="40" />
-  </a>
-  <a>
-    <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="40" height="40" />
-  </a>
-  <a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" alt="python" width="40" height="40" />
-  </a>
-  <a>
-  <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40">
-  </a>
+</p>
+
+---
+
+<div align="center">
+  
+  📊 **GitHub Stats**
+  
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Snooker4Real&show_icons=true&theme=radical)
+  
+  💻 **Most Used Languages**
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snooker4Real&layout=compact&theme=radical)
+
+</div>
