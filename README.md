@@ -113,3 +113,5 @@
 <p align="center">
   <i>“Code hard. Lift heavy. Play smart.”</i>
 </p>
+
+GitHub Trophy: ![trophy](https://github-profile-trophy.vercel.app/?username=Snooker4Real&theme=tokyonight)
