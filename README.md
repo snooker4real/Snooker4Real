@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/snooker4real" target="_blank" style="position: absolute; top: 10px; right: 10px; z-index: 10;">
+<a href="https://app.daily.dev/snooker4real" target="_blank" style="position: absolute; top: 50px; right: 50px; z-index: 10;">
   <img src="https://api.daily.dev/devcards/v2/UpJn4LLbGICbG3ioCYhJa.png?type=wide&r=96j" width="380" alt="Cindano Jonathan's Dev Card"/>
 </a>
 
