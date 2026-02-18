@@ -5,7 +5,9 @@
 <br>
 
 <h1 align="center">Hello World! I'm <strong>Cindano Jonathan</strong></h1>
-<h3 align="center">Java Spring Backend Developer | Tech Enthusiast | Gym • Tennis • Soccer</h3>
+<h3 align="center">
+Java Spring & Quarkus Backend Developer | Cloud & DevOps Enthusiast | Gym • Tennis • Soccer
+</h3>
 
 <p align="center">
   <a href="mailto:cindanojonathan@icloud.com">cindanojonathan@icloud.com</a>
@@ -40,6 +42,7 @@ Working on **[Server Manager](https://github.com/Snooker4Real/server)** — *Con
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" alt="Quarkus" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
