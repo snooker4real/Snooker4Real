@@ -4,9 +4,12 @@
 
 <br>
 
-<h1 align="center">Hello World! I'm <strong>Cindano Jonathan</strong></h1>
+<h1 align="center">Hi 👋 I'm <strong>Cindano Jonathan</strong></h1>
+
 <h3 align="center">
-Java Spring & Quarkus Backend Developer | Cloud & DevOps Enthusiast | Gym • Tennis • Soccer
+🚀 Backend & Cloud Native Engineer | Java • Spring • Quarkus  
+⚡ Building scalable APIs & high-performance systems  
+💪 Code hard. Lift heavy. Play smart.
 </h3>
 
 <p align="center">
@@ -22,11 +25,30 @@ Java Spring & Quarkus Backend Developer | Cloud & DevOps Enthusiast | Gym • Te
 
 ## About Me
 
-- **Backend Developer** specializing in the **Java Spring** ecosystem  
-- Currently learning **Kubernetes** and **React Native**  
-- **Passionate about** staying active through **Gym, Tennis, and Soccer**  
-- **Fun fact**: I balance clean code with clean reps at the gym  
-- **Reach me**: [cindanojonathan@icloud.com](mailto:cindanojonathan@icloud.com)
+I’m a Backend Engineer specialized in building scalable and high-performance APIs using Java ecosystems.
+
+💡 Strong focus on:
+- Clean Architecture & SOLID principles
+- REST API design & microservices
+- Performance optimization (JVM & Native builds)
+- Cloud-native environments (Docker, Kubernetes)
+
+⚙️ Currently working with:
+- Spring Boot & Quarkus
+- CI/CD pipelines
+- Containerized applications
+
+🏋️ Outside tech: Gym, Tennis, Soccer — discipline applies everywhere.
+
+---
+
+## What I Bring to a Team
+
+✔️ Ownership mindset  
+✔️ Strong API design skills  
+✔️ Performance-oriented backend development  
+✔️ DevOps awareness (Docker, Kubernetes, CI/CD)  
+✔️ Team spirit & continuous improvement culture. 
 
 ---
 
